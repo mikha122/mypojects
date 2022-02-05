@@ -1,6 +1,8 @@
 
 These projects are ones that I created myself
 The Football Project is the recent addition where i try to use Neural Networks to teach an algorithm to predict football games
+Then i used 2 SGDClassifiers to predict scores of matches. 
+Then, using averages of the past games i created new features for new predictions and worked off those in order to predict future results for games.
 
 The Housing project predicts prices of houses using simple scikit-learn models
 

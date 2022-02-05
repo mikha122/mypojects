@@ -1,0 +1,2 @@
+,homeTeamID,awayTeamID,homeProbability,drawProbability,awayProbability,homeGoalsHalfTime,awayGoalsHalfTime,xGoals_home,shots_home,shotsOnTarget_home,deep_home,fouls_home,corners_home,yellowCards_home,redCards_home,xGoals_away,shots_away,shotsOnTarget_away,deep_away,fouls_away,corners_away,yellowCards_away,redCards_away
+0,81,90,0.48262,0.22154000000000001,0.29584,1.6,0.6,2.003551,14.6,5.2,4.6,10.4,7.0,1.2,0.0,1.4483796,11.2,4.8,7.4,12.2,4.0,1.8,0.2
