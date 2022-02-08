@@ -10,6 +10,9 @@ The data used for the Football_project_NN, Football_project_ML and Football_proj
 Football_project_NN was an attempt to use a Neural Network with 3 deep layers in order to predict football matches.
 
 Football_project_ML was an attempt to use 2 SGDClassifiers to predict the amount of goals scored by different teams. 
+SGDClassifiers seem to work quite well in my testing, scoring better than Decision Trees and normal Linear Regression. 
+Despite not having a lot of data, the Stochastic Gradient Descent still came in useful, despite the random selection of points not being a must. 
+
 The accuracy may vary with your run, but mine was 44% accuracy for the home team after using GridSearch and the away team reached over 50%.
 The total accuracy was better, having 59% accuracy on predicting correctly whether the home team would win/lose/draw a match.
 
